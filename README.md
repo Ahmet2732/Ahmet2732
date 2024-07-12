@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdeIkader&label=Profile%20views&color=0e75b6&style=flat" alt="AbdeIkader" /> </p>
 
 
-- 👀 I’m interested in **Backend Developement**
+- 👀 I’m interested in **MernStack Developer**
 - 🌱 I’m currently learning the **NodeJs** & **NestJS**
 - 💬 Ask me about  with JavaScript, and NodeJS, or anything related to web development.
 - 📫 How to reach me email - **ahmedabdelkaderr81@gmail.com**
