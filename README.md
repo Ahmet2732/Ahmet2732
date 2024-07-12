@@ -2,16 +2,16 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MernStack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 <img align ="right" alt="Coding" width = "400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdeIkader&label=Profile%20views&color=0e75b6&style=flat" alt="AbdeIkader" /> </p>
 
 
-- 👀 I’m interested in **MernStack Developer**
+- 👀 I’m interested in **MernStack Development**
 - 🌱 I’m currently learning the **NodeJs** & **NestJS**
-- 💬 Ask me about  with JavaScript, and NodeJS, or anything related to web development.
+- 💬 Ask me about  with JavaScript, and NodeJS, TypeScript ,React.js or anything related to web development.
 - 📫 How to reach me email - **ahmedabdelkaderr81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
