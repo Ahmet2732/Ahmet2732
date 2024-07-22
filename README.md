@@ -42,15 +42,3 @@
     ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs&logoColor=red)&nbsp;
     ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AbdeIkader&theme=radical&show_icons=true&locale=en&layout=compact" alt="AbdeIkader" /></p>
- 
-
-
-  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdeIkader&theme=radical&show_icons=true&locale=en" alt="AbdeIkader" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdeIkader&theme=radical" alt="AbdeIkader" /></p>
